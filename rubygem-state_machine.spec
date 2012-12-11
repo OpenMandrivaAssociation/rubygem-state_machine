@@ -53,3 +53,13 @@ rm -rf %{buildroot}
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/test
 %{ruby_gemdir}/gems/%{rbname}-%{version}/test/*
 
+
+
+%changelog
+* Thu Mar 10 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.9.4-1
++ Revision: 643406
+- imported package rubygem-state_machine
+
+
+* Thu Mar 10 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.9.4-1
+- Initial package
