@@ -5,7 +5,7 @@ Summary:	Adds support for creating state machines for attributes on any Ruby cla
 Name:		rubygem-%{rbname}
 
 Version:	0.9.4
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	MIT
 URL:		http://www.pluginaweek.org
