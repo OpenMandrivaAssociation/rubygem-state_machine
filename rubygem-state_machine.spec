@@ -8,7 +8,7 @@ Version:	0.9.4
 Release:	2
 Group:		Development/Ruby
 License:	MIT
-URL:		http://www.pluginaweek.org
+URL:		https://www.pluginaweek.org
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
